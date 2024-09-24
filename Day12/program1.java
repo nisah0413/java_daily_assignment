@@ -4,7 +4,7 @@ class program1{
 	Scanner SC=new Scanner(System.in);
 		System.out.println("enter the number");
 			int a=SC.nextInt();
-			//int b=SC.nextInt();
+			int b=SC.nextInt();
 		System.out.println("Addition: "+(a+b));
 		System.out.println("Subtraction: "+(a-b));
 	}
